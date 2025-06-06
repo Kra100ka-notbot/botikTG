@@ -1,0 +1,12 @@
+2025-06-07 01:03:36,802 [INFO] Логирование настроено. Логи пишутся в /usr/src/app/log/bot_1590d3.log
+2025-06-07 01:03:36,823 [INFO] Start polling
+2025-06-07 01:03:37,010 [INFO] Run polling for bot @SerDud_bot id=7699689696 - 'SerDud'
+2025-06-07 01:03:50,236 [INFO] Сообщение от 1084274836: ты платный
+2025-06-07 01:03:57,961 [INFO] Ответ отправлен пользователю 1084274836
+2025-06-07 01:03:57,962 [INFO] Update id=291919791 is handled. Duration 7725 ms by bot id=7699689696
+2025-06-07 01:04:21,447 [INFO] Сообщение от 1084274836: а ты вообще кто
+2025-06-07 01:04:28,316 [INFO] Ответ отправлен пользователю 1084274836
+2025-06-07 01:04:28,317 [INFO] Update id=291919792 is handled. Duration 6870 ms by bot id=7699689696
+2025-06-07 01:15:49,106 [WARNING] Received SIGTERM signal
+2025-06-07 01:15:49,107 [INFO] Polling stopped for bot @SerDud_bot id=7699689696 - 'SerDud'
+2025-06-07 01:15:49,107 [INFO] Polling stopped
