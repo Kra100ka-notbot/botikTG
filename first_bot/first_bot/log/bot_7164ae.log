@@ -1,0 +1,6 @@
+2025-06-07 01:36:28,125 [INFO] Логирование настроено. Логи пишутся в /usr/src/app/log/bot_e03ae4.log
+2025-06-07 01:36:28,149 [INFO] Start polling
+2025-06-07 01:36:28,318 [INFO] Run polling for bot @SerDud_bot id=7699689696 - 'SerDud'
+2025-06-07 01:37:52,118 [WARNING] Received SIGTERM signal
+2025-06-07 01:37:52,119 [INFO] Polling stopped for bot @SerDud_bot id=7699689696 - 'SerDud'
+2025-06-07 01:37:52,119 [INFO] Polling stopped
